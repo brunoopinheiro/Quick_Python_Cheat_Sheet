@@ -1,0 +1,6 @@
+1. Introduction to Python
+2. Variables and Data Types
+3. Control Flow (if statements, loops)
+4. Functions
+5. Data Structures (lists, tuples, dictionaries)
+6. File Handling

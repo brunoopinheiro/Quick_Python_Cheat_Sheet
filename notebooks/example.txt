@@ -1,0 +1,13 @@
+Welcome to the Python Lesson!
+
+In this lesson, we will cover the basics of Python programming.
+
+Topics Covered:
+1. Introduction to Python
+2. Variables and Data Types
+3. Control Flow (if statements, loops)
+4. Functions
+5. Data Structures (lists, tuples, dictionaries)
+6. File Handling
+
+Feel free to follow along and execute the code snippets in your Jupyter notebook.
