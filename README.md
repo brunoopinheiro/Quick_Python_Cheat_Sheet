@@ -8,9 +8,32 @@ You can quickly go to a notebook, based on the main theme:
 
 | Theme      | Description | Link |
 |------------|-------------|------|
+| Strings  | Basic String Operations | [notebook](notebooks/strings/working_with_strings.ipynb)  |
+| Mathematical Operations  | Basic Mathemathical Operations | [notebook](notebooks/math/working_with_math.ipynb)  |
+| Working With Lists | Basic List Operations | [notebook](notebooks/working_with_lists/working_with_lists.ipynb) |
+| More Advanced List Comprehensions  | WIP |   |
+| Working with Dictionaries  | WIP |   |
 | Working With Files | General file Operations | [notebook](notebooks/working_with_files/working_with_files.ipynb) |
 | Working With HTTP API | General HTTP Requests | [notebook](notebooks/working_http/working_with_http_api.ipynb) |
-| Working With Lists | Basic List Operations | [notebook](notebooks/working_with_lists/working_with_lists.ipynb) |
+| RegEx (Regular Expressions)  | WIP |   |
+| Working with OS  | WIP |   |
+| Working with CLI  | WIP |   |
+| Working with Dates and Times  | WIP |   |
+| Pandas Library (Dataframes)  | WIP |   |
+| Numpy Library (Array)  | WIP |   |
+| Matplotlib (Data Visualization)  | WIP |   |
+| Scikit-Learn (Machine Learning)  | WIP |   |
+| Plotly (Interactive Data Visualization)  | WIP |   |
+| Decorators  | WIP |   |
+| Object Oriented Programming  | WIP |   |
+| Working with Databases | WIP |   |
+| Working with AsyncIO | WIP |   |
+| Networks, Sockets, and Network Interfaces  | WIP |   |
+| GraphQL  | WIP |   |
+| Web Scraping  | WIP |   |
+| `pip` (Package Management)  | WIP |   |
+| Common Built-in Functions and Packages  | WIP |   |
+
 
 
 ## Running Locally
