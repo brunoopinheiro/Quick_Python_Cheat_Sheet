@@ -9,6 +9,8 @@ You can quickly go to a notebook, based on the main theme:
 | Theme      | Description | Link |
 |------------|-------------|------|
 | Working With Files | General file Operations | [notebook](notebooks/working_with_files/working_with_files.ipynb) |
+| Working With HTTP API | General HTTP Requests | [notebook](notebooks/working_http/working_with_http_api.ipynb) |
+| Working With Lists | Basic List Operations | [notebook](notebooks/working_with_lists/working_with_lists.ipynb) |
 
 
 ## Running Locally
