@@ -160,6 +160,6 @@ cython_debug/
 #.idea/
 
 # Project .txt files
-notebooks/destination.txt
-notebooks/example2.txt
-notebooks/copy.png
+notebooks/working_with_files/destination.txt
+notebooks/working_with_files/example2.txt
+notebooks/working_with_files/copy.png

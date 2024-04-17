@@ -8,7 +8,7 @@ You can quickly go to a notebook, based on the main theme:
 
 | Theme      | Description | Link |
 |------------|-------------|------|
-| Working With Files | General file Operations | [notebook](notebooks/working_with_files.ipynb) |
+| Working With Files | General file Operations | [notebook](notebooks/working_with_files/working_with_files.ipynb) |
 
 
 ## Running Locally
