@@ -8,7 +8,7 @@ You can quickly go to a notebook, based on the main theme:
 
 | Theme      | Description | Link |
 |------------|-------------|------|
-| Strings  | WIP |   |
+| Strings  | Basic String Operations | [notebook](notebooks/strings/working_with_strings.ipynb)  |
 | Mathematical Operations  | WIP |   |
 | Working With Lists | Basic List Operations | [notebook](notebooks/working_with_lists/working_with_lists.ipynb) |
 | More Advanced List Comprehensions  | WIP |   |
