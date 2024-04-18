@@ -19,7 +19,7 @@ You can quickly go to a notebook, based on the main theme:
 | Working with OS  | WIP |   |
 | Working with CLI  | WIP |   |
 | Working with Dates and Times  | WIP |   |
-| Pandas Library (Dataframes)  | WIP |   |
+| Pandas Library (Dataframes)  | Basic Pandas DataFrame manipulation | [notebook](notebooks/pandas_dataframes/pandas_snippets.ipynb) |
 | Numpy Library (Array)  | WIP |   |
 | Matplotlib (Data Visualization)  | WIP |   |
 | Scikit-Learn (Machine Learning)  | WIP |   |
