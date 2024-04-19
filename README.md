@@ -20,8 +20,10 @@ You can quickly go to a notebook, based on the main theme:
 | Working with CLI  | WIP |   |
 | Working with Dates and Times  | WIP |   |
 | Pandas Library (Dataframes)  | Basic Pandas DataFrame manipulation | [notebook](notebooks/pandas_dataframes/pandas_snippets.ipynb) |
-| Numpy Library (Array)  | WIP |   |
-| Matplotlib (Data Visualization)  | WIP |   |
+| Numpy Library (Array)  | Basic Array Manipulation with NumPy | [notebook](notebooks/arrays/numpy_lib.ipynb) |
+| Matplotlib (Data Visualization)  | Basic Matplotlib plotting | [notebook](notebooks/plots/matplotlib_snippets.ipynb) |
+| Matplotlib + Pandas  | WIP |   |
+| Seaborn (Data Visualization)  | WIP |   |
 | Scikit-Learn (Machine Learning)  | WIP |   |
 | Plotly (Interactive Data Visualization)  | WIP |   |
 | Decorators  | WIP |   |
