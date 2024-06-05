@@ -28,6 +28,7 @@ You can quickly go to a notebook, based on the main theme:
 | Plotly (Interactive Data Visualization)  | WIP |   |
 | Decorators  | WIP |   |
 | Object Oriented Programming  | WIP |   |
+| Function Overloading | Function and Method Overloading in Python | [notebook](notebooks/overloading/function_overloading.ipynb) |
 | Working with Databases | WIP |   |
 | Working with AsyncIO | WIP |   |
 | Networks, Sockets, and Network Interfaces  | WIP |   |
