@@ -26,7 +26,7 @@ You can quickly go to a notebook, based on the main theme:
 | Seaborn (Data Visualization)  | WIP |   |
 | Scikit-Learn (Machine Learning)  | WIP |   |
 | Plotly (Interactive Data Visualization)  | WIP |   |
-| Decorators  | WIP |   |
+| Decorators  | WIP | [notebook](notebooks/decorators/notebook.ipynb) |
 | Object Oriented Programming  | WIP |   |
 | Function Overloading | Function and Method Overloading in Python | [notebook](notebooks/overloading/function_overloading.ipynb) |
 | Working with Databases | WIP |   |
