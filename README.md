@@ -36,6 +36,7 @@ You can quickly go to a notebook, based on the main theme:
 | Web Scraping  | WIP |   |
 | `pip` (Package Management)  | WIP |   |
 | Common Built-in Functions and Packages  | WIP |   |
+| Neural Networks - Introduction | Introduction to Neural Network concepts | [notebook](notebooks/neural_networks/introduction_to_neural_networks.ipynb) |
 
 
 
